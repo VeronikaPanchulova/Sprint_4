@@ -12,7 +12,7 @@ public class MainPage {
     //Верхняя Кнопка "Заказать"
     @FindBy(xpath = "(//button[text()='Заказать'])[1]")
     public WebElement order1;
-    //Нижняя кнопка "Заказать"
+    //Нижняя кнопка "Заказать2"
     @FindBy(xpath = "(//button[text()='Заказать'])[2]")
     public WebElement order2;
     //Картинка в верхнем левом углу "Яндекс Самокат"
