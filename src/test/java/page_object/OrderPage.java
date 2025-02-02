@@ -35,7 +35,7 @@ public WebElement numberOfDays;
 @FindBy (xpath = "(//button[contains(text(), 'Заказать')])[2]")
 public WebElement buttonRegistration;
 @FindBy (xpath = "//button[contains(text(), 'Да')]")
-//Ошибка после нажатия кнопки "Да"
+//Ошибка после нажатия на кнопку "Да"
 public WebElement buttonYes;
 @FindBy (xpath = "//button[contains(text(), 'Нет')]")
 public WebElement buttonNo;

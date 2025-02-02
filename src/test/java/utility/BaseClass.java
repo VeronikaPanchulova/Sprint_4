@@ -77,7 +77,7 @@ public class BaseClass {
         Assert.assertEquals("Сутки — 400 рублей. Оплата курьеру — наличными или картой.", mainPage.costGetText());
         driver.quit();
     }
-
+    //Дополнительный тест
     @Test
     public void importantScooter()  {
         driver.get(TestData.url);
