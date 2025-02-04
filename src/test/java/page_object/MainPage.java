@@ -31,7 +31,6 @@ public class MainPage {
     @FindBy(xpath = "//div[@data-accordion-component='AccordionItemPanel']")
     public WebElement cost;
 
-
     public MainPage() {
         PageFactory.initElements(driver, this);
     }

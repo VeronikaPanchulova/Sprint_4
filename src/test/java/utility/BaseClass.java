@@ -16,9 +16,7 @@ public class BaseClass {
 
     static {
         System.setProperty("webdriver.chrome.driver", "C:/Users/vpanc/Desktop/chrome/chromedriver.exe");
-
     }
-
 
     public static WebDriver driver = new ChromeDriver();
 

@@ -11,4 +11,3 @@ public class TestData {
     public static String user2Address = "Комсомольская, 8";
     public static String user2Phone = "89654123646";
     }
-//Test

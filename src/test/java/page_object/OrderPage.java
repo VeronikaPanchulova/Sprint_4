@@ -41,6 +41,7 @@ public WebElement buttonYes;
 public WebElement buttonNo;
 @FindBy (xpath = "//img[@alt='Scooter']" )
 public WebElement imgScooter;
+
     public OrderPage() {
         PageFactory.initElements(driver, this);
     }
