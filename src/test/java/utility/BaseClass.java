@@ -66,7 +66,6 @@ public class BaseClass {
         orderPage.clickNo();
         driver.quit();
     }
-
     @Test
     public void importantQuestions()  {
         driver.get(TestData.url);

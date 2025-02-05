@@ -9,7 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 import static utility.BaseClass.driver;
 
 public class MainPage {
-    //Верхняя Кнопка "Закфзать"
+    //Верхняя Кнопка "Заказать"
     @FindBy(xpath = "(//button[text()='Заказать'])[1]")
     public WebElement order1;
     //Нижняя кнопка "Заказать2"

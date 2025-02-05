@@ -51,7 +51,6 @@ public WebElement imgScooter;
     public void sendSurname(String text) {
         inputSurname.click();
         inputSurname.sendKeys(text);
-
     }
     public void sendName (String text) {
         inputName.click();
