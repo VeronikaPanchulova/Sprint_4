@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5265ce36-ff64-4244-99b9-208f0455f0b9" name="Changes" comment="third commit" />
+    <list default="true" id="5265ce36-ff64-4244-99b9-208f0455f0b9" name="Changes" comment="4 commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +56,7 @@
     "JUnit.BaseClass.orderSecondButton.executor": "Run",
     "JUnit.utility in 4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/vpanc/hello-maven/Sprint_4",
     "onboarding.tips.debug.path": "C:/Users/vpanc/hello-maven/4/src/main/java/org/example/Main.java",
@@ -238,7 +241,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739203570469</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1739204238710</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739204238710</updated>
+    </task>
+    <task id="LOCAL-00011" summary="4 commit">
+      <option name="closed" value="true" />
+      <created>1739204367750</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739204367750</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,7 +287,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="commit2" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="4 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
