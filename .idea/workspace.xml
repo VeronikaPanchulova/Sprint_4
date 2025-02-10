@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5265ce36-ff64-4244-99b9-208f0455f0b9" name="Changes" comment="third commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VeronikaPanchulova&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:VeronikaPanchulova/Sprint_4.git&quot;,
+    &quot;accountId&quot;: &quot;e40f6fee-d779-481a-805b-6472ef716366&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2p540yG3VB8ise4biyJgONJGHNT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.BaseClass.executor": "Run",
+    "JUnit.BaseClass.getToUrl.executor": "Run",
+    "JUnit.BaseClass.importantQuestions.executor": "Run",
+    "JUnit.BaseClass.importantScooter.executor": "Run",
+    "JUnit.BaseClass.orderFirstButton.executor": "Run",
+    "JUnit.BaseClass.orderSecondButton.executor": "Run",
+    "JUnit.utility in 4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vpanc/hello-maven/Sprint_4",
+    "onboarding.tips.debug.path": "C:/Users/vpanc/hello-maven/4/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vpanc\hello-maven\4\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BaseClass.importantScooter">
+    <configuration name="BaseClass.importantQuestions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utility" />
+      <option name="MAIN_CLASS_NAME" value="utility.BaseClass" />
+      <option name="METHOD_NAME" value="importantQuestions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseClass.importantScooter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utility" />
+      <option name="MAIN_CLASS_NAME" value="utility.BaseClass" />
+      <option name="METHOD_NAME" value="importantScooter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseClass.orderFirstButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utility" />
+      <option name="MAIN_CLASS_NAME" value="utility.BaseClass" />
+      <option name="METHOD_NAME" value="orderFirstButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseClass.orderSecondButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utility" />
+      <option name="MAIN_CLASS_NAME" value="utility.BaseClass" />
+      <option name="METHOD_NAME" value="orderSecondButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="utility in 4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="utility" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BaseClass.importantScooter" />
+        <item itemvalue="JUnit.BaseClass.importantQuestions" />
+        <item itemvalue="JUnit.BaseClass.orderSecondButton" />
+        <item itemvalue="JUnit.BaseClass.orderFirstButton" />
+        <item itemvalue="JUnit.utility in 4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5265ce36-ff64-4244-99b9-208f0455f0b9" name="Changes" comment="" />
+      <created>1732042389591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732042389591</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1738515489346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738515489347</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1738515748433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738515748434</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1738515862868</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738515862868</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <option name="closed" value="true" />
+      <created>1738516021374</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738516021374</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit2">
+      <option name="closed" value="true" />
+      <created>1738516604256</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738516604256</updated>
+    </task>
+    <task id="LOCAL-00006" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1738686785023</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738686785023</updated>
+    </task>
+    <task id="LOCAL-00007" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1738783401082</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738783401082</updated>
+    </task>
+    <task id="LOCAL-00008" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1738784613267</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738784613267</updated>
+    </task>
+    <task id="LOCAL-00009" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1739203570469</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739203570469</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="commit2" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
